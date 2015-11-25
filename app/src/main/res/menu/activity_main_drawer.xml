@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_personal"
+            android:icon="@drawable/ic_event_available_black_48dp"
+            android:title="@string/NavPersonal"/>
+        <item
+            android:id="@+id/nav_eth"
+            android:icon="@drawable/ic_school_black_48dp"
+            android:title="@string/NavETH"/>
+        <item
+            android:id="@+id/nav_tv_shows"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/NavTV"/>
+        <item
+            android:id="@+id/nav_books"
+            android:icon="@drawable/ic_import_contacts_black_48dp"
+            android:title="@string/NavBook"/>
+    </group>
+
+</menu>

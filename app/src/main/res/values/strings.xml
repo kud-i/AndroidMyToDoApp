@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MyToDo</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_to_do">ToDoActivity</string>
+    <string name="NavPersonal">Personal</string>
+    <string name="NavETH">ETH</string>
+    <string name="NavTV">TV Shows</string>
+    <string name="NavBook">Books</string>
+    <string name="MenuSave">Save</string>
+    <string name="Title">Title</string>
+    <string name="DueDate">Due date:</string>
+    <string name="ChangeToDo">Change todo</string>
+    <string name="NewToDo">New todo</string>
+</resources>
